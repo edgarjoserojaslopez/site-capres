@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/site-capres/static/css/main.ffd658e5.chunk.css",
+    "main.js": "/site-capres/static/js/main.ce134364.chunk.js",
+    "main.js.map": "/site-capres/static/js/main.ce134364.chunk.js.map",
+    "runtime-main.js": "/site-capres/static/js/runtime-main.4a6ca7b6.js",
+    "runtime-main.js.map": "/site-capres/static/js/runtime-main.4a6ca7b6.js.map",
+    "static/js/2.1c313d52.chunk.js": "/site-capres/static/js/2.1c313d52.chunk.js",
+    "static/js/2.1c313d52.chunk.js.map": "/site-capres/static/js/2.1c313d52.chunk.js.map",
+    "static/js/3.980bd595.chunk.js": "/site-capres/static/js/3.980bd595.chunk.js",
+    "static/js/3.980bd595.chunk.js.map": "/site-capres/static/js/3.980bd595.chunk.js.map",
+    "index.html": "/site-capres/index.html",
+    "static/css/main.ffd658e5.chunk.css.map": "/site-capres/static/css/main.ffd658e5.chunk.css.map",
+    "static/js/2.1c313d52.chunk.js.LICENSE.txt": "/site-capres/static/js/2.1c313d52.chunk.js.LICENSE.txt",
+    "static/media/Finance - 5438.fd059723.mp4": "/site-capres/static/media/Finance - 5438.fd059723.mp4",
+    "static/media/capres.0ee1930d.jpg": "/site-capres/static/media/capres.0ee1930d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a6ca7b6.js",
+    "static/js/2.1c313d52.chunk.js",
+    "static/css/main.ffd658e5.chunk.css",
+    "static/js/main.ce134364.chunk.js"
+  ]
+}
