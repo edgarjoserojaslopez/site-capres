@@ -71,12 +71,14 @@ export const NavMenu = styled.ul`
   list-style: none;
   text-align: center;
   margin-right: -1.375rem;
+  box-sizing: border-box;
 
   @media screen and (max-width: 48rem) {
     display: none;
   }
 `;
 export const NavItem = styled.li`
+  box-sizing: border-box;
   height: 4.5rem;
 `;
 
