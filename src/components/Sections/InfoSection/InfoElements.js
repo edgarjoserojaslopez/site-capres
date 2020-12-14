@@ -2,18 +2,20 @@ import styled from "styled-components";
 import { Link } from "react-router-dom";
 
 export const InfoContainer = styled.div`
+  height: 768px;
   color: #f2f2f2;
-  background: ${({ lightBg }) => (lightBg ? "#f9f9f9" : "#010606")};
+  background: ${({ lightBg }) => (lightBg ? "#f9f9f9" : "#ababab")};
 
   @media screen and (max-width: 768px) {
   }
   padding: 100px 0;
+  height: auto;
 `;
 
 export const InfoWrapper = styled.div`
   display: flex;
   z-index: 1;
-  height: 55rem;
+  height: auto;
   width: 100%;
   max-width: 68rem;
   margin-right: auto;
